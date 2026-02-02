@@ -52,6 +52,7 @@
 ## 💬 Quote of the Day
 <p align="center">
 <img src="https://img.shields.io/badge/💜-Code.%20K-pop.%20Cricket.%20Cinema.%20Repeat.-8A2BE2?style=for-the-badge&logo=appveyor&logoColor=white"/>
+  "Code. K-pop. Cricket. Cinema. Repeat. That’s my kind of full stack life." 🎶🏏💻🍿
 </p>
 
 
