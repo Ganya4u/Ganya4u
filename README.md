@@ -47,11 +47,14 @@
 
 ---
 
-## 📊 GitHub Stats
+---
 
-![](https://github-readme-stats.vercel.app/api?username=Ganya4u&show_icons=true&theme=tokyonight&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ganya4u&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganya4u&layout=compact&theme=tokyonight&hide_border=true)
+## 💬 Quote of the Day
+<p align="center">
+<img src="https://img.shields.io/badge/💜-Code.%20K-pop.%20Cricket.%20Cinema.%20Repeat.-8A2BE2?style=for-the-badge&logo=appveyor&logoColor=white"/>
+</p>
+
+
 ---
 
 <p align="center">
