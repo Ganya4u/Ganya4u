@@ -52,7 +52,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Ganya4u&show_icons=true&theme=tokyonight&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ganya4u&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganya4u&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 <p align="center">
